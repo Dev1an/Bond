@@ -664,7 +664,7 @@ let orientation: Dynamic<UIDeviceOrientation> = dynamicObservableFor(UIDeviceOri
 ### Git Submodules
 
 1. Clone Bond as a submodule into the directory of your choice
-  <br> `git submodule add git@github.com:SwiftBond/Bond.git`
+  <br> `git submodule add git@github.com:Dev1an/Bond.git`
   <br> `git submodule update --init`
 2. Drag Bond.xcodeproj into your project tree as a subproject
 3. Under your project's Build Phases, expand Target Dependencies
